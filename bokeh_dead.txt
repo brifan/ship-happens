@@ -41,7 +41,7 @@ Singapore			1	2	4	1			4	1	1		1		1
 Sierra Leone						1										
 Trinidad and Tobago								1								
 Taiwan					1											
-United State	20	73	133	139	140	134	151	145	132	123	114	123	89	96	36	1
+United States	20	73	133	139	140	134	151	145	132	123	114	123	89	96	36	1
 Saint Vincent and the Grenadines						1		1								
 Venezuela			1	1												
 Vanuatu		2	2	1	2	1	2	2		1				2		

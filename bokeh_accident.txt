@@ -41,7 +41,7 @@ Singapore	1	1	9	6	34	12	4	2	8	6	5	4	10	5	3
 Sierra Leone			1			2			1							
 Trinidad and Tobago		1	4			1	2	2								
 Taiwan				1	1		1		2							
-United State	51	284	827	868	768	738	893	754	693	698	746	760	689	771	357	50
+United States	51	284	827	868	768	738	893	754	693	698	746	760	689	771	357	50
 Saint Vincent and the Grenadines		1	5	2	3	2	1	1	2	1	2	3				
 Venezuela			5	1		3										
 Vanuatu		6	18	14	2	5	8	3	4	1			5	2	1	

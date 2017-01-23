@@ -7,7 +7,7 @@ Team Member-
 
 1. Aaron Wright
 2. Brian Fan
-3. Kayla Hinrichs (Captain, Team Ship Happen)
+3. Kayla Hinrichs
 4. Sudha Goel
 5. Sushanta K Paul
 

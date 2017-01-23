@@ -1,0 +1,47 @@
+Country	Group	ID
+Ghana	Africa	GE
+Liberia	Africa	LR
+Malta	Africa	MT
+Nigeria	Africa	NG
+Sierra Leone	Africa	SL
+United Arab Emirates	Asia	AE
+China	Asia	CN
+Hong Kong	Asia	HK
+India	Asia	IN
+Japan	Asia	JP
+"Korea, Rep."	Asia	KR
+Marshall Islands	Asia	MH
+Malaysia	Asia	MY
+Singapore	Asia	SG
+Taiwan	Asia	TW
+Vanuatu	Australia	VU
+Netherlands Antilles	Europe	AN
+Bolivia	Europe	BO
+Switzerland	Europe	CH
+Cyprus	Europe	CY
+Germany	Europe	DE
+Denmark	Europe	DK
+Georgia	Europe	GB
+Greece	Europe	GR
+Isle of Man	Europe	IM
+Italy	Europe	IT
+Netherlands	Europe	NL
+Norway	Europe	NO
+Bahamas	North America	BS
+Canada	North America	CA
+Jamaica	North America	JM
+Saint Kitts and Nevis	North America	KN
+Mexico	North America	MX
+United States	North America	US
+Antigua and Barbuda	South America	AG
+Bermuda	South America	BM
+Colombia	South America	CO
+Dominica	South America	DM
+Guyana	South America	GY
+Honduras	South America	HN
+Cayman Islands	South America	KY
+Panama	South America	PA
+Peru	South America	PE
+Trinidad and Tobago	South America	TT
+Saint Vincent and the Grenadines	South America	VC
+Venezuela	South America	VE

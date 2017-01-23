@@ -1,34 +1,5 @@
 {
-  "target_names": [
-    "Yes",
-    "No"
-  ],
-  "feature_names": [
-    "gross_ton",
-    "vlength",
-    "vdepth",
-    "vessel_class",
-    "vessel_age",
-    "route_type",
-    "Accident"
-  ],
   "categorical_features": {
-    "route_type": [
-      "UNSPECIFIED",
-      "Oceans",
-      "Lakes, Bays, and Sounds",
-      "Rivers",
-      "Lakes, Bays, and Sounds plus Limited Coastwise",
-      "Coastwise",
-      "Great Lakes",
-      "Lakes, Bays, and Sounds plus Limited Great Lakes",
-      "Rivers plus Limited Great Lakes",
-      "Coastwise and Great Lakes"
-    ],
-    "Accident": [
-      "Yes",
-      "No"
-    ],
     "vessel_class": [
       "Recreational",
       "Barge",
@@ -46,6 +17,35 @@
       "Ro-Ro Cargo Ship",
       "School Ship",
       "Refrigerated Cargo Ship"
+    ],
+    "Accident": [
+      "Yes",
+      "No"
+    ],
+    "route_type": [
+      "UNSPECIFIED",
+      "Oceans",
+      "Lakes, Bays, and Sounds",
+      "Rivers",
+      "Lakes, Bays, and Sounds plus Limited Coastwise",
+      "Coastwise",
+      "Great Lakes",
+      "Lakes, Bays, and Sounds plus Limited Great Lakes",
+      "Rivers plus Limited Great Lakes",
+      "Coastwise and Great Lakes"
     ]
-  }
+  },
+  "feature_names": [
+    "gross_ton",
+    "vlength",
+    "vdepth",
+    "vessel_class",
+    "vessel_age",
+    "route_type",
+    "Accident"
+  ],
+  "target_names": [
+    "Yes",
+    "No"
+  ]
 }
